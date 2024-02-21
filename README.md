@@ -1,4 +1,4 @@
-# H.N.D.B.M.S (Hatem & Nawasany Database Management System)
+# H.N.D.B.M.S (Hatems & Nawasany Database Management System)
 
 ## Overview
 
