@@ -22,7 +22,7 @@ H.N.D.B.M.S is a simple database management system designed to work on a Unix/Li
 
 ## Installation
 
-1. Clone the repository: `git clone <repository_url>`
+1. Clone the repository: `git clone ahmedhattem11/H.N.D.B.M.S`
 2. Create the HNDBMS directory: `mkdir HNDBMS`
 3. Make the shell scripts executable: `chmod +x main.sh Scripts/*.sh`
 
