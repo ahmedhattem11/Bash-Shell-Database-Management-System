@@ -16,7 +16,7 @@ Prerequisites
 •	Bash shell (version 4 or higher recommended)
 Installation
 1.	Clone the repository: git clone <repository_url>
-2.	Create the HNDBMS diretory : mkdir HNDBMS
+2.	Create the HNDBMS directory: mkdir HNDBMS
 3.	Make the shell scripts executable: chmod +x main.sh Scripts/*.sh
 Usage
 1.	Run main.sh to start the H.N.D.B.M.S shell.
